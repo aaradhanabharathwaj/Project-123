@@ -1,0 +1,23 @@
+body{
+    font-family: 'Vesper Libre', serif;
+    color: white;   
+}
+.footer{   
+    color: #435b7e;      
+    bottom: 0;
+    text-align: center;
+    line-height: 2;
+    position: fixed;
+    width: 1500px;
+} 
+h1{
+    background: #8496ad;    
+}
+.heading2{
+    background: #8bc5e1;
+}
+canvas{
+    border-radius: 30px;
+    border: 5px solid white;
+    background:#667e9b ;
+}
